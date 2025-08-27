@@ -1,1 +1,1 @@
-GoIT Java Script Homework 5
+GoIT Java Script Homework 6
